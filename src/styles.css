@@ -1,3 +1,12 @@
+/*
+Import CDN stylesheets:
+http://getgoingit.blogspot.com/2018/02/adding-bootstrap-style-sheets-to.html
+*/
+/*
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+*/
+
+
 /* Application-wide Styles */
 h1 {
   color: #369;
