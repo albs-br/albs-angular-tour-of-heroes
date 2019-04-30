@@ -15,11 +15,11 @@ export class HeroService {
   //   this.getHeroes();
   // }
 
-  getHeroes(): Hero[] {
-    return HEROES;
-  }
-
-  // getHeroes(): Observable<Hero[]> {
-  //   return of(HEROES);
+  // getHeroes(): Hero[] {
+  //   return HEROES;
   // }
+
+  getHeroes(): Observable<Hero[]> {
+    return of(HEROES);
+  }
 }
