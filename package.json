@@ -1,6 +1,6 @@
 {
   "name": "albs-angular-tour-of-heroes",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "private": true,
   "dependencies": {
     "@angular/common": "^7.2.5",
